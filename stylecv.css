@@ -1,0 +1,17 @@
+.en_tête{
+    border:solid 3px red;
+    background-color: lightskyblue;
+    position: fixed;
+    text-align: center;
+    
+}
+.tete{
+    text-align: center;
+}
+#red{
+    font: large;
+    color:red;
+}
+#barre{
+    background-color:lightseagreen;
+}
